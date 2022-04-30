@@ -1,0 +1,75 @@
+﻿  fc_matlab.cpp
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(39): warning C4273: 'login_fc': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(16): note: see previous definition of 'login_fc'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(63): warning C4273: 'logout_fc': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(18): note: see previous definition of 'logout_fc'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(95): warning C4273: 'getHistoryPrices': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(17): note: see previous definition of 'getHistoryPrices'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(224): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(239): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(255): warning C4273: 'createMarketOrder': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(19): note: see previous definition of 'createMarketOrder'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(259): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(285): warning C4273: 'createEntryOrder': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(20): note: see previous definition of 'createEntryOrder'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(289): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(315): warning C4273: 'createELSorder': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(21): note: see previous definition of 'createELSorder'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(321): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(329): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(333): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(335): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(337): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(339): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(360): warning C4273: 'printOpenPositions': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(24): note: see previous definition of 'printOpenPositions'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(362): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(369): warning C4273: 'printOrders': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(25): note: see previous definition of 'printOrders'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(371): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(378): warning C4273: 'changeELSstopLimit': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(26): note: see previous definition of 'changeELSstopLimit'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(383): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(429): warning C4273: 'changeOrder': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(27): note: see previous definition of 'changeOrder'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(431): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(455): warning C4273: 'deleteOrder': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(29): note: see previous definition of 'deleteOrder'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(457): warning C4101: 'buf': unreferenced local variable
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(658): warning C4273: 'getRealTimePrices': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(22): note: see previous definition of 'getRealTimePrices'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(699): warning C4273: 'stopPrices': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(23): note: see previous definition of 'stopPrices'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(705): warning C4273: 'getAccountBalance': inconsistent dll linkage
+  k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.h(28): note: see previous definition of 'getAccountBalance'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(753): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(706): warning C4101: 's2': unreferenced local variable
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(789): warning C4101: 'buf': unreferenced local variable
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(837): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(840): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(904): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(988): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(452): warning C4715: 'changeOrder': not all control paths return a value
+k:\fxcm\proj\matlab\fc_matlab_dll\fc_matlab\source\fc_matlab.cpp(841): warning C4172: returning address of local variable or temporary: s2
+     Creating library K:\fxcm\proj\Matlab\fc_matlab_dll\x64\Release\fc_matlab.lib and object K:\fxcm\proj\Matlab\fc_matlab_dll\x64\Release\fc_matlab.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  fc_matlab.vcxproj -> K:\fxcm\proj\Matlab\fc_matlab_dll\x64\Release\fc_matlab.dll
